@@ -9,6 +9,7 @@ public class TaksimetreHesaplama {
         km = scanner.nextInt();
 
         tutar = (km * kmBasi) + acilis;
+        
 
         tutar = tutar < 20 ? 20 : tutar;
 
