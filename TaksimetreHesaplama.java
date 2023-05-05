@@ -8,7 +8,7 @@ public class TaksimetreHesaplama {
         System.out.println("Kaç km gidildi: ");
         km = scanner.nextInt();
 
-        tutar = (km * kmBasi) + acilis;
+        tutar = (km * kmBasi) + acilis; 
         
 
         tutar = tutar < 20 ? 20 : tutar;
