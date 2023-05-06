@@ -22,6 +22,6 @@ public class BasamakSayisiToplama {
         }
 
         System.out.println("\n" + sayi + " sayısının " + basamakSayisi + " basamağı vardır.");
-        System.out.println("Basamakları toplamı: " + toplam);
+        System.out.println("Basamakları toplamı: " + toplam); 
     }
 }
