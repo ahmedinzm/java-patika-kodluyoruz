@@ -1,4 +1,4 @@
-public class Main {
+public class ArrayHarmonic {
     public static void main(String[] args) {
         int[] numbers = {1, 2, 3, 4, 5}; // Dizi
         double sum = 0.0; // Toplam değeri tutmak için değişken tanımlama
